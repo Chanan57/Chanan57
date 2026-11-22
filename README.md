@@ -1,15 +1,15 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00D2FF&height=220&section=header&text=CP%20Guragain&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Security%20Consultant%20%7C%20Cloud%20Infrastructure%20%7C%20Automation%20Specialist&descAlignY=58&descSize=16&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00D2FF&height=220&section=header&text=CP%20Guragain&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20Consultant%20%7C%20Microsoft%20Security%20%7C%20Builder&descAlignY=58&descSize=16&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=🛡️+Microsoft+Cybersecurity+Architect+Expert;☁️+Cloud+%7C+Security+%7C+Automation+%40+NCS+Australia;🤖+Building+AI+Agents+%26+PowerShell+Workflows;📈+Algorithmic+Forex+Trading+with+Python+%26+MT5)](https://github.com/Chanan57)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=🛡️+Microsoft+Cybersecurity+Architect+Expert;☁️+Consultant+%40+NCS+Group+Australia;🧪+Building+AI+tools%2C+apps+%26+automation;📈+Algorithmic+trading+with+Python+%26+MT5)](https://github.com/Chanan57)
 
 <br/>
 
 [![Website](https://img.shields.io/badge/🌐_cpguragain.com-000000?style=for-the-badge)](https://cpguragain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cp-guragain-601b28198/)
 [![Email](https://img.shields.io/badge/connect@cpguragain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect@cpguragain.com)
-[![Location](https://img.shields.io/badge/📍_Westmead,_NSW-Australia-00D2FF?style=for-the-badge)](https://github.com/Chanan57)
+[![Location](https://img.shields.io/badge/📍_Sydney-Australia-00D2FF?style=for-the-badge)](https://github.com/Chanan57)
 [![Views](https://komarev.com/ghpvc/?username=Chanan57&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS)](https://github.com/Chanan57)
 
 </div>
@@ -24,8 +24,9 @@ Dedicated IT specialist and Cyber Security professional with **3+ years** of han
 
 I specialize in securing complex enterprise environments, executing seamless cloud migrations, and building **automation pipelines** that scale.
 
-- 🔭 Building custom **AI conversational agents** (PowerShell Architects & SharePoint Experts)
-- 🌱 Exploring **algorithmic Forex trading** with Python & MetaTrader 5
+- 🔭 Building **AI-assisted tools** in my spare time: an exam simulator, mobile apps and a daily portfolio briefing agent
+- 🌱 Running an **autonomous gold-trading engine** written in Python on MetaTrader 5
+- 🏠 Tinkering with a **self-hosted Linux home lab**
 - 🎓 Bachelor of IT (Cyber Security) · ACS Professional Year
 - 🏎️ F1 fan · 📚 Reader · 🎵 Music enthusiast
 
@@ -36,44 +37,58 @@ I specialize in securing complex enterprise environments, executing seamless clo
 ## 🚀 Professional Experience
 
 <details open>
-<summary><b>🔵 Security Consultant — NCS Australia &nbsp;|&nbsp; Jun 2025 – Present</b></summary>
+<summary><b>🔵 Consultant — NCS Group Australia &nbsp;|&nbsp; Jul 2026 – Present</b></summary>
 <br/>
 
-- Supporting deployment of **Microsoft Defender for Endpoint** on Linux servers
-- Collaborating with infrastructure and security teams for secure configuration and onboarding
-- Developing and maintaining **documentation and automation scripts** for scalable implementation
+- Leading and delivering client engagements across industries, from research and analysis through to recommendations
+- Working with cross-functional teams and client stakeholders to design and deliver solutions to complex problems
+- Focus areas: **Microsoft Defender**, **Microsoft Purview** data protection, identity and access, and **Microsoft 365 security**
 
 </details>
 
 <details>
-<summary><b>🟣 Security Operations Analyst — NCS Australia &nbsp;|&nbsp; Jan 2025 – Mar 2025</b></summary>
+<summary><b>🟣 Associate Consultant — NCS Group Australia &nbsp;|&nbsp; May 2024 – Jun 2026</b></summary>
 <br/>
 
-- Implemented **Microsoft Purview Data Loss Prevention (DLP)** policies across enterprise tenants
-- Classified and protected sensitive business data using **Microsoft Information Protection**
-- Collaborated across teams to ensure secure data handling and compliance practices
+- Supported client projects across industries with research, analysis and data collection
+- Hands-on work with **Microsoft Defender for Endpoint**, **Purview DLP** and **Microsoft Information Protection**
+- Built reusable **PowerShell** automation and **Power BI** reporting
 
 </details>
 
 <details>
-<summary><b>🟠 Associate Consultant — NCS Australia &nbsp;|&nbsp; Nov 2024 – Dec 2024</b></summary>
+<summary><b>🟠 Associate Consultant — Eighty20 Solutions &nbsp;|&nbsp; Apr 2023 – May 2024</b></summary>
 <br/>
 
-- Collaborated with internal teams to build **IP-based assets** from prior client engagements
-- Developed reusable **PowerShell scripts** and automation toolkits
-- Built **Power BI dashboards** for visual reporting and business analysis
+- Executed **tenant-to-tenant migrations** in Microsoft 365 for clients around the world
+- Moved **SharePoint, OneDrive, Exchange and Teams** data at scale and resolved issues quickly to keep disruption low
 
 </details>
 
 <details>
-<summary><b>🟢 Migration Consultant — NCS Australia &nbsp;|&nbsp; Sep 2023 – Oct 2024</b></summary>
+<summary><b>🟢 IT & Admin Support Officer — SNS Migration and Education &nbsp;|&nbsp; Aug 2021 – Feb 2023</b></summary>
 <br/>
 
-- Executed **tenant-to-tenant migrations** within Microsoft 365 environments
-- Managed **SharePoint, OneDrive, Exchange, and Teams** data migration at scale
-- Delivered project status reports to support informed decision-making
+- Supported Windows and macOS devices, **Microsoft 365** licensing and permissions, and the workplace CRM
+- Introduced new tools and processes that made the office more efficient
 
 </details>
+
+---
+
+## 🧪 Things I've Built
+
+Full write-ups for each project live on [cpguragain.com/projects](https://cpguragain.com/projects).
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**CertPrep Coach**](https://cpguragain.com/blogs/certprep-coach) · [code](https://github.com/Chanan57/certprep-coach) | A Microsoft-style exam simulator with an AI vision layer | Python · Streamlit · SQLite · OpenAI vision |
+| [**Lodged**](https://cpguragain.com/blogs/lodged) | Tracking Australian visa applications on iPhone and Android | Kotlin · SwiftUI · Supabase |
+| [**Kitchen Deck**](https://cpguragain.com/blogs/kitchen-deck) · [live](https://kitchen-deck.vercel.app) | A shared household kitchen app on a fridge-mounted iPad | Preact · TypeScript · Supabase · Vercel |
+| [**cpguragain.com**](https://cpguragain.com/blogs/building-portfolio-with-ai) · [code](https://github.com/Chanan57/PersonalSite) | This portfolio: security-themed, with motion and SEO built in | Next.js · TypeScript · Tailwind · Firebase |
+| [**Phoenix V7**](https://cpguragain.com/blogs/phoenix-v7) | An autonomous gold-trading engine with a built-in discipline system | Python · scikit-learn · MetaTrader 5 |
+| [**CPG Capital**](https://cpguragain.com/blogs/cpg-capital) | An AI agent that sends me a daily portfolio briefing | Python · PowerShell · MCP · Telegram |
+| [**Home lab server**](https://cpguragain.com/blogs/home-lab) | A self-hosted Linux server for media and a private AI assistant | Ubuntu Server · Jellyfin · Bash · systemd |
 
 ---
 
